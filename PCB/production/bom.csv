@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinHeader_2x38_P2.54mm_Vertical,1,Conn_02x38_Odd_Even,
+"J10, J12, J14, J16, J18, J20, J22, J24, J4, J6, J8",PinHeader_1x38_P2.54mm_Vertical,11,Conn_01x38_MountingPin,
+"J11, J13, J15, J17, J19, J21, J23, J3, J5, J7, J9",PinSocket_1x38_P2.54mm_Vertical,11,Conn_01x38_MountingPin,
+J2,PinSocket_2x38_P2.54mm_Vertical,1,Conn_02x38_Odd_Even,
